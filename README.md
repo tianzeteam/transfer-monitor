@@ -2,6 +2,8 @@
 
 一个高性能的 Solana 区块链转账监控系统，使用场景很多,例如智能跟单交易和资金流向分析等。基于 Yellowstone gRPC 实时监控指定地址的 SOL 和 SPL Token 转账活动，为SOL跟单策略提供精准的数据支持。
 
+> 💡 **相关产品**: 如需完整的SOL跟单交易解决方案，请访问 [BeyondJeet 官网](https://beyondpump.app/) 了解更多专业跟单工具。
+
 ## 🚀 项目概述
 
 Transfer Monitor 是一个专为 Solana 生态系统设计的实时转账监控工具，为跟单交易和智能投资策略提供核心数据支持，能够：
@@ -454,6 +456,13 @@ logging:
 1. 查看本文档的故障排除部分
 2. 提交 GitHub Issue
 3. 联系开发团队
+4. 访问 [BeyondJeet 官网](https://beyondpump.app/) 获取专业技术支持
+
+## 🔗 相关链接
+
+- **BeyondJeet 官网**: [https://beyondpump.app/](https://beyondpump.app/) - 专业的 Solana 跟单交易平台
+- **产品文档**: 完整的跟单策略和风险管理指南
+- **社区支持**: 专业的跟单交易社区和技术交流
 
 ---
 
